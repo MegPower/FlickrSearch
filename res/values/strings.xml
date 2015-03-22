@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flickr Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="flickr_search_query">Enter Flickr search query</string>
+    <string name="tag_prompt_string">Tag your query</string>
+    <string name="save_btn_desc">Click here to save your tagged search</string>
+    <string name="taggedSearches">Tagged Searches</string>
+    <string name="missingMessage">Please enter a query and a tag</string>
+    <string name="OK">OK</string>
+    <string name="searchURL">https://www.flickr.com/search/?q=</string>
+    <string-array name="dialog_items">
+        <item >Share</item>
+        <item >Edit</item>
+        <item >Delete</item>
+    </string-array>
+    <string name="shareSubject">Flickr searches of interest</string>
+    <string name="shareMessage">Check out this cool Flickr search: %s</string>
+    <string name="shareSearch">Share search to:</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete?</string>
+    <string name="confirmMessage">Are you sure you want to delete %s ?</string>
+    <string name="shareEditDeleteTitle">Share, Edit, Delete %s ?</string>
+
+</resources>
